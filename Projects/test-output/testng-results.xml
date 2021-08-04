@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="111" started-at="2021-08-03T13:15:42 IST" finished-at="2021-08-03T13:15:42 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="111" started-at="2021-08-03T13:15:42 IST" finished-at="2021-08-03T13:15:42 IST">
+      <class name="com.TY.RMG.Projects.UpdateProjectTest">
+        <test-method status="PASS" signature="updateProjectTest()[pri:0, instance:com.TY.RMG.Projects.UpdateProjectTest@48503868]" name="updateProjectTest" duration-ms="19" started-at="2021-08-03T13:15:42 IST" finished-at="2021-08-03T13:15:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateProjectTest -->
+      </class> <!-- com.TY.RMG.Projects.UpdateProjectTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
